@@ -1,6 +1,6 @@
 # GAME 1: Peach City (Unity, C#, HTML5)
 
-**Peach City** is an engaging action game set in a vibrant city inhabited by anthropomorphic fruits. Dive into a colorful world filled with challenges and combat, all presented in a charming 2D art style.
+**Peach City** is an engaging action game set in a vibrant city inhabited by anthropomorphic fruits. Dive into a colorful world filled with challenges and combat in this 3D third-person-shooter.
 
 ## Key Features
 
