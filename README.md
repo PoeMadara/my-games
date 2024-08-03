@@ -40,10 +40,10 @@ This is a simple Minesweeper game implemented in Java. The game consists of a 4x
 
 1. Compile the Java code:
    Open Bash
-   javac Buscaminas.java
+    ```javac Buscaminas.java```
 
 2. Run the game:
-  java Buscaminas
+   ```java Buscaminas```
 
 ----------------------
 
