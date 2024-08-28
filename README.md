@@ -37,12 +37,28 @@ This is a simple Minesweeper game implemented in Java. The game consists of a 4x
 
 ## How to Run
 
-1. Compile the Java code:
-   Open Bash
-    ```javac Minesweeper.java```
+### 1. Open the Console
+   - **Windows**: 
+     - Go to the Start Menu, type `cmd`, and press **Enter**.
+     - Copy the path to the folder where the file is located.
+     - Navigate to that directory by running the following command:
+       ```sh
+       cd C:\Users\YourUserName\PathToFolder
+       ```
+       *(Replace `YourUserName` and `PathToFolder` with your actual user name and the path to the folder you copied.)*
 
-2. Run the game:
-   ```java Minesweeper```
+### 2. Compile the Java Code
+   - Run the following command to compile the Java file:
+     ```sh
+     javac Minesweeper.java
+     ```
+
+### 3. Run the Game
+   - Execute the following command to start the game:
+     ```sh
+     java Minesweeper
+     ```
+
 
 ----------------------
 
