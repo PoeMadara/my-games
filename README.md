@@ -13,13 +13,12 @@
 - **Combat**: Use your weapons to defeat enemies
 - **Explore**: Interact with the environment and discover hidden secrets.
 
-## System Requirements
+## Minimum Requirements
 
 - **OS**: Windows, macOS, Linux
 - **Processor**: Intel Core i5 or equivalent
 - **Memory**: 4 GB RAM
 - **Graphics**: OpenGL 2.1
-- **Storage**: 500 MB available space
 
 ## Play Now
 
