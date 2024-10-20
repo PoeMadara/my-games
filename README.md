@@ -60,6 +60,23 @@ This is a simple Minesweeper game implemented in Java. The game consists of a 4x
      ```
 
 
+# Game 3: Escape Room - Python Game Project  
+Text-based Escape Room game developed in Python. Our team added a feature where the player must input a secret word to unlock a door, increasing the game's difficulty.
+
+**Game Description**  
+Interactive text-based adventure where the player explores rooms, finds keys, and unlocks doors to escape the house.
+
+**How to Play**  
+1. Explore rooms.
+2. Examine objects to find keys.
+3. Unlock doors with keys or secret words.
+
+**Repository Link**  
+- [Play on Google Colab: Escape Room on Google Colab](https://github.com/Rafa-Gamero/Project1PythonIronhack)
+
+**Note**: To ensure the code runs correctly, the file `EscapeRoomFunctions.py` must be placed in a folder named `Functions` within your Google Drive.
+
+
 ----------------------
 
 Author
