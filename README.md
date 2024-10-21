@@ -72,7 +72,7 @@ Interactive text-based adventure where the player explores rooms, finds keys, an
 3. Unlock doors with keys or secret words.
 
 **Repository Link**  
-- [Play on Google Colab: Escape Room on Google Colab](https://github.com/Rafa-Gamero/Project1PythonIronhack)
+- [Follow this link](https://github.com/Rafa-Gamero/Project1PythonIronhack)
 
 **Note**: To ensure the code runs correctly, the file `EscapeRoomFunctions.py` must be placed in a folder named `Functions` within your Google Drive.
 
